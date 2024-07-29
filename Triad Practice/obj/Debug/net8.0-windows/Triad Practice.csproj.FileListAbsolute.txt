@@ -1,0 +1,35 @@
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Triad Practice.exe
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Sounds\MajorTick.wav
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Sounds\MinorTick.wav
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Triad Practice.deps.json
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Triad Practice.runtimeconfig.json
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Triad Practice.dll
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Triad Practice.pdb
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice_MarkupCompile.cache
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice_MarkupCompile.lref
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.g.resources
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.AssemblyInfoInputs.cache
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.AssemblyInfo.cs
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.csproj.CoreCompileInputs.cache
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.dll
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\refint\Triad Practice.dll
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.pdb
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice.genruntimeconfig.cache
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\ref\Triad Practice.dll
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\DGB1.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\DGB2.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\DGB3.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\EADG1.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\EADG2.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\EADG3.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\GBE1.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\GBE2.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\bin\Debug\net8.0-windows\Images\GBE3.png
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\Triad Practice_Content.g.cs
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\TriadPresenter.g.cs
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\TriadPresenter.baml
+C:\Users\Max\RiderProjects\Triad Practice\Triad Practice\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
